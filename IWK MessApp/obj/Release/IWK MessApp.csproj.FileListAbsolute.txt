@@ -1,0 +1,23 @@
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\References\Tinkerforge.dll.mdb
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\IWK MessApp.exe.config
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\IWK MessApp.exe.manifest
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\IWK MessApp.application
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\IWK MessApp.exe
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\IWK MessApp.pdb
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\Tinkerforge.dll
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Release\Tinkerforge.xml
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\MainWindow.g.cs
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\App.g.cs
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp_Content.g.cs
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp_MarkupCompile.cache
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp_MarkupCompile.lref
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\MainWindow.baml
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.g.resources
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK_MessApp.Properties.Resources.resources
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.csproj.GenerateResource.Cache
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.TrustInfo.xml
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.exe.manifest
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.application
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.exe
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Release\IWK MessApp.pdb

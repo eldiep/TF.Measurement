@@ -1,0 +1,24 @@
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\References\Tinkerforge.dll.mdb
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\IWK MessApp.exe.config
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\IWK MessApp.exe
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\IWK MessApp.pdb
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\Tinkerforge.dll
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\Tinkerforge.xml
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\MainWindow.g.cs
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\App.g.cs
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp_Content.g.cs
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp_MarkupCompile.cache
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp_MarkupCompile.lref
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\MainWindow.baml
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.g.resources
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK_MessApp.Properties.Resources.resources
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.csproj.GenerateResource.Cache
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.exe
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.pdb
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\IWK MessApp.exe.manifest
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\bin\Debug\IWK MessApp.application
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.TrustInfo.xml
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.exe.manifest
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.application
+C:\Users\Elias\source\repos\IWK MessApp\IWK MessApp\obj\Debug\IWK MessApp.csprojResolveAssemblyReference.cache
